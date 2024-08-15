@@ -10,11 +10,10 @@ const config: Config = {
     extend: {
       colors:{
         black:{
-          default: '#000',
+          DEFAULT: '#000',
           100: '#000319'
         }
       }
-      },
     },
   },
   plugins: [],
